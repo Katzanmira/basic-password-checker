@@ -1,0 +1,10 @@
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\obj\Debug\66840_Mehmet_Said_Unlu_T1.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\obj\Debug\_66840_Mehmet_Said_Unlu_T1.Form1.resources
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\obj\Debug\_66840_Mehmet_Said_Unlu_T1.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\obj\Debug\66840_Mehmet_Said_Unlu_T1.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\obj\Debug\66840_Mehmet_Said_Unlu_T1.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\bin\Debug\66840_Mehmet_Said_Unlu_T1.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\bin\Debug\66840_Mehmet_Said_Unlu_T1.exe
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\bin\Debug\66840_Mehmet_Said_Unlu_T1.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\obj\Debug\66840_Mehmet_Said_Unlu_T1.exe
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T1\66840_Mehmet_Said_Unlu_T1\obj\Debug\66840_Mehmet_Said_Unlu_T1.pdb
